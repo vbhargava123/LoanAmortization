@@ -45,7 +45,7 @@ int main() {
     // loop over all the rows of the table
     for(int i=0; i<time; i++) {
         // call method to find interest expense within payment
-        intExp = getInterestExpense(currentBalance, ratepp);
+        intExp = (currentBalance * ratepp);
         
         // calculate the principle expense
         prinExp = monthExp - intExp;
@@ -67,8 +67,4 @@ double getMonthlyPayment(double p, double r, int t) {
     temp = pow(temp, t);
     result = p * r * temp / (temp - 1);
     return result;
-}
-
-double getInterestExpense(double balance, double rate) {
-    return (balance * rate);
 }
