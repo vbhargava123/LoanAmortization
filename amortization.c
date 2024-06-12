@@ -1,5 +1,5 @@
 // Author: Vaibhav Bhargava
-// Neudesic Coding Interview Project
+// Loan Calculator
 
 #include <stdlib.h>
 #include <stdio.h>
