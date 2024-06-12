@@ -1,5 +1,5 @@
-# NeudesicProject
-Neudesic Cloud Computing Internship - Loan Amortization Schedule
+# LoanCalculator
+Loan Amortization Schedule
 
 AUTHOR: Vaibhav Bhargava
 DATE: March 2024
