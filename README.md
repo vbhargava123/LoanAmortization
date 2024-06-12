@@ -1,2 +1,2 @@
-# NeudesicProject
-Neudesic Cloud Computing Internship - Loan Amortization Schedule
+# LoanCalculator
+Loan Amortization Schedule Calculator
